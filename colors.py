@@ -12,4 +12,4 @@ class color():
 
 
 
-print(color.VERDE_CLARO + "TESTE")
+print(color.VERDE_CLARO + "TESTE" + color.RESET)
