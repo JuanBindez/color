@@ -1,52 +1,15 @@
-#python3 estendertela.py
-
-import os
-from time import sleep
 
 
-def xrandr():
-    print("[1] DIREITA")
-    print("[2] ESQUERDA")
-    
+class color():
+    VERDE = '\033[92m'
+    VERMELHO = '\033[91m'
+    AMARELO = '\033[93m'
+    AZUL = '\033[1;34m'
+    MAGENTA = '\033[1;35m'
+    VERDE_CLARO = '\033[1;92m'
+    NEGRITO = '\033[;1m'
+    RESET = '\033[0m'
 
 
-def direita():
-    os.system("xrandr --auto --output VGA-1 --right-of DVI-I-1")
-    os.system("clear")
-    print("se não estendeu como você queria digite outro numero")
-    xrandr()
-    tela2()
 
-
-def esquerda():
-    os.system("xrandr --auto --output DVI-I-1 --right-of VGA-1")
-    os.system("clear")
-    print("se não estendeu como você queria digite outro numero")
-    xrandr()
-    tela2()
-
-
-def tela2():
-    tela = int(input("digite um numero para estender a tela para direita ou esquerda:"))
-    if tela == 1:
-        direita()
-    if tela == 2:
-        esquerda()
-
-
-    
-
-# inicio da execução do código
-
-xrandr()
-
-
-tela = int(input("digite um numero para estender a tela para direita ou esquerda:"))
-
-
-if tela == 1:
-    direita()
-
-
-if tela == 2:
-    esquerda()
+print(color.VERDE_CLARO + "TESTE")
