@@ -1,0 +1,10 @@
+# color
+
+você pode usar este arquivo como módulo, salve no mesmo diretorio que o arquivo principal , depois deve ser importado desta forma:
+
+#from colors import Color
+
+depois só usalo nos seus códigos para colorir os resultados , exemplo:
+
+# print(Color.AMARELO + "teste" + Color.RESET)
+
