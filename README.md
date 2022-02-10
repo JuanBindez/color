@@ -8,3 +8,6 @@ depois só usalo nos seus códigos para colorir os resultados , exemplo:
 
 # print(Color.AMARELO + "teste" + Color.RESET)
 
+<div>
+    
+</div>
