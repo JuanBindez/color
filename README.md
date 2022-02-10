@@ -10,6 +10,6 @@ depois só usalo nos seus códigos para colorir os resultados , exemplo:
 
 <div>
     <p align="center">
-       <img width="470" src="https://github.com/JuanBindez/color/issues/1#issue-1130519103"> 
+       <img width="470" src=/issues/1#issue-1130519103"> 
     </p>
 </div>
