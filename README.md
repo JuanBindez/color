@@ -10,6 +10,6 @@ depois só usalo nos seus códigos para colorir os resultados , exemplo:
 
 <div>
     <p align="center">
-      > ![Colors](https://user-images.githubusercontent.com/79322362/153462685-a229f2af-5ec2-4328-86b7-6e3804777a00.png)
+      (https://user-images.githubusercontent.com/79322362/153462685-a229f2af-5ec2-4328-86b7-6e3804777a00.png)
     </p>
 </div>
