@@ -18,4 +18,4 @@ class Color():
     RESET = '\033[0m'
 
 
-print(Color.VERDE_CLARO + "TESTE" + Color.RESET)
+#print(Color.VERDE_CLARO + "TESTE" + Color.RESET)
