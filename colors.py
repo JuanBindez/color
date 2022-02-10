@@ -1,4 +1,4 @@
-
+#cores ANSI
 
 class Color():
     VERDE = '\033[92m'
