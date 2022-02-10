@@ -4,7 +4,7 @@ você pode usar este arquivo como módulo, salve no mesmo diretorio que o arquiv
 
 #from colors import Color
 
-depois só usalo nos seus códigos para colorir os resultados , exemplo:
+depois só usa-lo nos seus códigos para colorir os resultados , exemplo:
 
 # print(Color.AMARELO + "teste" + Color.RESET)
 
