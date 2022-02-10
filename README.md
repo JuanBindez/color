@@ -9,5 +9,7 @@ depois só usalo nos seus códigos para colorir os resultados , exemplo:
 # print(Color.AMARELO + "teste" + Color.RESET)
 
 <div>
-    
+    <p align="center">
+       <img width="470" src=""> 
+    </p>
 </div>
