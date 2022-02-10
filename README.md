@@ -13,4 +13,4 @@ depois só usa-lo nos seus códigos para colorir os resultados , exemplo:
 pode ser usado em inputs também 
 
 
-![colors2](https://user-images.githubusercontent.com/79322362/153479477-e2db0dfb-1c1b-4784-80d6-c64e30717db6.png)
+> ![colors2](https://user-images.githubusercontent.com/79322362/153479477-e2db0dfb-1c1b-4784-80d6-c64e30717db6.png)
