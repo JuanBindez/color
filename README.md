@@ -1,10 +1,8 @@
 # color
 
-'''python
+´´´python
 
-
-
-'''
+´´´
 
 você pode usar este arquivo como módulo, salve no mesmo diretorio que o arquivo principal , depois deve ser importado desta forma:
 
